@@ -52,6 +52,9 @@ After training and testing the model, you can use this script to convert a video
 > **Note**: `loss.py` and `model.py` do not need to be executed separately, as they are imported and used in the `training.py` and `test.py` scripts.
 
 
-##Poster
+## POSTER
 
-![Captone Project Poster](CAPSTONE THESIS.png)
+Below, you can find the poster created for the MarineNN project. This visually appealing and informative poster summarizes the key aspects of the project, including its objectives, methodology, results, and insights.
+
+![MarineNN Project Poster](CAPSTONETHESIS.png)
+
