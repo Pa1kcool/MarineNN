@@ -50,3 +50,8 @@ Tests the trained model on a set of test images.
 After training and testing the model, you can use this script to convert a video into frames and process them with the trained model.
 
 > **Note**: `loss.py` and `model.py` do not need to be executed separately, as they are imported and used in the `training.py` and `test.py` scripts.
+
+
+##Poster
+
+![Captone Project Poster](CAPSTONE THESIS.png)
