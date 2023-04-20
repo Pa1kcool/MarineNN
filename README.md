@@ -18,6 +18,9 @@ To achieve these goals, the project employs state-of-the-art deep learning techn
 
 The MarineNN model is extensively evaluated using a diverse set of underwater images, demonstrating its effectiveness in improving image quality, preserving details, and outperforming existing solutions, such as the UGAN (Underwater Generative Adversarial Network).
 
+![Comparison of Original, UGAN and MarineNN enhanced images](group1.png)
+
+
 ## Conclusion
 
 In conclusion, the MarineNN capstone project successfully addresses the need for efficient and effective underwater image enhancement. It has the potential to impact various underwater applications, including marine biology research, environmental monitoring, and recreational diving, by providing enhanced images for better visual perception and analysis.
