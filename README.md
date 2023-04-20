@@ -12,6 +12,6 @@ The MarineNN model is extensively evaluated using a diverse set of underwater im
 
 In conclusion, the MarineNN capstone project successfully addresses the need for efficient and effective underwater image enhancement. It has the potential to impact various underwater applications, including marine biology research, environmental monitoring, and recreational diving, by providing enhanced images for better visual perception and analysis.
 
-##Dataset
+<h3>Dataset</h3>
 
 https://drive.google.com/drive/folders/1ZEql33CajGfHHzPe1vFxUFCMcP0YbZb3?usp=sharing
