@@ -18,7 +18,7 @@ To achieve these goals, the project employs state-of-the-art deep learning techn
 
 The MarineNN model is extensively evaluated using a diverse set of underwater images, demonstrating its effectiveness in improving image quality, preserving details, and outperforming existing solutions, such as the UGAN (Underwater Generative Adversarial Network).
 
-![Comparison of Original, UGAN and MarineNN enhanced images](group1.png)
+![Comparison of Original, UGAN and MarineNN enhanced images](Group.png)
 
 
 ## Conclusion
