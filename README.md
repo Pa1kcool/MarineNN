@@ -56,5 +56,5 @@ After training and testing the model, you can use this script to convert a video
 
 Below, you can find the poster created for the MarineNN project. This visually appealing and informative poster summarizes the key aspects of the project, including its objectives, methodology, results, and insights.
 
-![MarineNN Project Poster](CAPSTONETHESIS.png)
+![MarineNN Project Poster](CAPSTONETHESISnew.png)
 
